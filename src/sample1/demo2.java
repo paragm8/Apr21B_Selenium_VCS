@@ -6,7 +6,6 @@ public static void main(String[] args) {
 	System.out.println("Gm");
 	System.out.println("Gm");
 	System.out.println("Gm");
-	System.out.println("Gm");
 	
 	
 }
